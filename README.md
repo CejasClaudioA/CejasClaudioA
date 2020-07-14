@@ -1,4 +1,16 @@
-### Hi there 👋
+### Hola! 👋
+Soy un estudiante de sistemas intentando aprender cada dia un poco más.
+
+#### Algunos conocimientos:
+* Java
+* JavaScript
+* PHP 
+* Android
+* Firebase
+* NodeJs
+* Express
+* MongoDB
+* Json
 
 <!--
 **CejasClaudioA/CejasClaudioA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
