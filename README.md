@@ -1,6 +1,5 @@
-### Hola! 👋
-Soy un estudiante de sistemas intentando aprender cada dia un poco más.
-
+## Hola! 👋
+### Soy un estudiante de sistemas intentando aprender cada día un poco más.
 #### Algunos conocimientos:
 * Java
 * JavaScript
@@ -11,6 +10,9 @@ Soy un estudiante de sistemas intentando aprender cada dia un poco más.
 * Express
 * MongoDB
 * Json
+
+[![Fazt Community](https://img.shields.io/badge/Fazt%20Community-GitHub-red)](https://github.com/faztcommunity)
+
 
 <!--
 **CejasClaudioA/CejasClaudioA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
