@@ -11,6 +11,11 @@
 * MongoDB
 * Json
 
+#### Aprendiendo:
+* Amazon Web Services
+* TypeScript
+* React
+
 [![Fazt Community](https://img.shields.io/badge/Fazt%20Community-GitHub-red)](https://github.com/faztcommunity)
 
 
