@@ -10,11 +10,16 @@
 * Express
 * MongoDB
 * Json
+* React
+* Redux
+* Git
 
 #### Aprendiendo:
 * Amazon Web Services
 * TypeScript
-* React
+* Flutter
+* Dart
+* SocketIo
 
 [![Fazt Community](https://img.shields.io/badge/Fazt%20Community-GitHub-red)](https://github.com/faztcommunity)
 
