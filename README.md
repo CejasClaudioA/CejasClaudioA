@@ -1,5 +1,5 @@
 ## Hola! 👋
-### Soy un estudiante de sistemas intentando aprender cada día un poco más.
+### Soy un desarrollador intentando aprender cada día un poco más.
 #### Algunos conocimientos:
 * Java
 * JavaScript
@@ -13,13 +13,14 @@
 * React
 * Redux
 * Git
-
-#### Aprendiendo:
-* Amazon Web Services
 * TypeScript
 * Flutter
 * Dart
+
+#### Aprendiendo:
+* Amazon Web Services
 * SocketIo
+* Angular
 
 [![Fazt Community](https://img.shields.io/badge/Fazt%20Community-GitHub-red)](https://github.com/faztcommunity)
 
